@@ -58,7 +58,10 @@ typings/
 .yarn-integrity
 
 # dotenv environment variables file
-.env
+config/dev.env
 
 #DS Store
 *.DS_Store
+
+#APIkey
+backEnd/config/dev.json
